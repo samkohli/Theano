@@ -1,6 +1,6 @@
-===========================
+============================
  Announcing Theano 0.5
-===========================
+============================
 
 ## You can select and adapt one of the following templates.
 
